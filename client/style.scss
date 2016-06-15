@@ -328,6 +328,10 @@ $level-0: 0;
 		text-decoration: none;
 		color: $orange;
 		font-weight: bold;
+
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 }
 
